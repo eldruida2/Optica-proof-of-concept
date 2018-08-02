@@ -3,7 +3,9 @@
 # Diseño del sistema de óptica para el *Proof of concept*
 > Proyecto TeideSAT
 
-## Introducción 
+## Introducción
+
+Teidesat 
 
 ## Herramientas y recursos utilizados
 
