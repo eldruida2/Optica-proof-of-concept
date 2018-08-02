@@ -5,7 +5,7 @@
 
 ## Introducción
 
-Git es divertido
+Teidesat mola
 
 ## Herramientas y recursos utilizados
 
